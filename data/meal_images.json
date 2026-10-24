@@ -1,0 +1,16 @@
+{
+  "sprite": "assets/meal_images/indian_vegetarian_sprite.png",
+  "source_note": "Generated illustrative Indian vegetarian food image sheet; images are representative, not photographs of the exact dataset recipe or hostel preparation.",
+  "tiles": {
+    "M041": 0,
+    "M042": 1,
+    "M104": 2,
+    "M009": 3,
+    "M039": 4,
+    "M076": 5,
+    "M014": 6,
+    "M017": 7,
+    "M002": 8
+  },
+  "images": {}
+}

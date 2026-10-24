@@ -56,3 +56,9 @@ secrets.*
 # Any scratch copies produced during exploration are ignored.
 scratch/
 *.tmp
+.phase45-*/
+
+# Generated menu plans are local application state
+data/generated_plans/
+frontend/node_modules/
+frontend/dist/

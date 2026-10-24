@@ -1,0 +1,4 @@
+method,runs,successful_runs,mean_runtime_seconds,mean_feasible_candidates,mean_non_dominated_count,mean_daily_cost
+greedy_cost,10,10,0.034913690000394126,1.0,1.0,75.7142857142857
+nsga2,10,10,7.435377769999468,40.0,13.2,78.89781023070496
+random_feasible,10,10,0.5801139699990017,40.0,13.2,78.89781023070496
